@@ -1,4 +1,4 @@
-![gyphy gif](https://media3.giphy.com/media/l0CLV19ybreaIrvfW/giphy.gif?cid=bfae73229c6dc5de16f21e0985785fdfc1df70c18764ed6d&rid=giphy.gif&ct=g)
+![gyphy gif](https://media4.giphy.com/media/3ov9jHS5P6mMeJxKlG/giphy.gif?cid=bfae7322769881e90e9d7f5679acca84d051909fd136fd59&rid=giphy.gif&ct=g)
 
 ![in-progress-badge](https://img.shields.io/badge/IN-PROGRESS-brightgreen)
 
