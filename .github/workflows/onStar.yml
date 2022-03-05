@@ -1,0 +1,12 @@
+name: onStar repo
+on:
+  watch:
+    types: [started]
+
+jobs:
+  buildReadme: 
+    steps: 
+      - uses: actions/checkout@v2
+      - run: yarn && GH_PERSONAL_TOKEN=${{secrets.GH_PERSONAL_TOKEN}} yarn do
+
+    

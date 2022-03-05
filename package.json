@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "do": "node ./buildReadme.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
