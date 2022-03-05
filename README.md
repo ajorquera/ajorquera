@@ -9,5 +9,4 @@
 ![gyphy gif](https://media1.giphy.com/media/42xJlYeSxV5B0XSboZ/giphy.gif?cid=bfae73220x8vp7vx89ze5g4ff7oa7wrhbnon8qbmw3karrgj&rid=giphy.gif&ct=g)
 
 ## Show your 💓 
-[Star our repo](https://github.com/ajorquera/ajorquera) and see your face here
-<img alt="avatar ajorquera" src="https://avatars.githubusercontent.com/u/5083214?v=4" height="50" />
+[Star our repo](https://github.com/ajorquera/ajorquera) and see your face here\n<img alt="avatar ajorquera" src="https://avatars.githubusercontent.com/u/5083214?v=4" height="50" />
