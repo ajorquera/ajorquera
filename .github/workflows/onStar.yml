@@ -5,6 +5,8 @@ on:
 
 jobs:
   buildReadme: 
+    name: Build and deploy lambda
+    runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
       - run: yarn && GH_PERSONAL_TOKEN=${{secrets.GH_PERSONAL_TOKEN}} yarn do
