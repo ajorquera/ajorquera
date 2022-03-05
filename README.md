@@ -10,3 +10,4 @@
 
 ## Show your 💓
 [Star our repo](https://github.com/ajorquera/ajorquera) and see your face here
+![avatar ajorquera](https://avatars.githubusercontent.com/u/5083214?v=4)
