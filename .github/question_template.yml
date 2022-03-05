@@ -1,0 +1,40 @@
+name: New quiz question
+description: Create a new question
+title: "[Bug]: "
+labels: ["question"]
+assignees:
+  - ajorquera
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: question
+    attributes:
+      label: New question
+      description: Please give us a cool and exciting question
+      placeholder: What was first, the egg or the chicken?
+    validations:
+      required: true
+  - type: input
+    id: answer1
+    attributes:
+      label: Answers #1
+      placeholder: Egg
+    validations:
+      required: true
+  - type: input
+    id: answer2
+    attributes:
+      label: Answers #2
+      placeholder: Chicken
+    validations:
+      required: true
+  - type: input
+    id: answer3
+    attributes:
+      label: Answers #3
+      placeholder: There is no right answer
+    validations:
+      required: true
+  
