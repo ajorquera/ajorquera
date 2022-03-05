@@ -11,4 +11,4 @@
 ## Show your 💓 
 [Star our repo](https://github.com/ajorquera/ajorquera) and see your face here
 
-<img alt="avatar ajorquera" src="https://avatars.githubusercontent.com/u/5083214?v=4" height="50" /><img alt="avatar Anthobetto" src="https://avatars.githubusercontent.com/u/64795591?v=4" height="50" />
+<img alt="avatar ajorquera" src="https://avatars.githubusercontent.com/u/5083214?v=4" height="50" /><img alt="avatar Anthobetto" src="https://avatars.githubusercontent.com/u/64795591?v=4" height="50" /><img alt="avatar crisgrim" src="https://avatars.githubusercontent.com/u/7805193?v=4" height="50" />
