@@ -10,5 +10,3 @@
 
 ## Show your 💓
 [Star our repo](https://github.com/ajorquera/ajorquera) and see your face here
-
-![in-progress-badge](https://img.shields.io/badge/IN-PROGRESS-brightgreen)
