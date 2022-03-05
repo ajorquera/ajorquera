@@ -1,13 +1,11 @@
 name: New quiz question
 description: Create a new question
-title: "[Bug]: "
+title: "New question: [REPLACE HERE]"
 labels: ["question"]
-assignees:
-  - ajorquera
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to fill out this bug report!
+      value: Thanks for contributing to our cool quiz!
   - type: input
     id: question
     attributes:
@@ -19,21 +17,21 @@ body:
   - type: input
     id: answer1
     attributes:
-      label: Answers #1
+      label: Answer 1
       placeholder: Egg
     validations:
       required: true
   - type: input
     id: answer2
     attributes:
-      label: Answers #2
+      label: Answer 2
       placeholder: Chicken
     validations:
       required: true
   - type: input
     id: answer3
     attributes:
-      label: Answers #3
+      label: Answers 3
       placeholder: There is no right answer
     validations:
       required: true
