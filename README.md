@@ -8,5 +8,5 @@
 ### [I'm feeling lucky](https://fct5mvs0s5.execute-api.us-east-2.amazonaws.com)
 ![gyphy gif](https://media1.giphy.com/media/42xJlYeSxV5B0XSboZ/giphy.gif?cid=bfae73220x8vp7vx89ze5g4ff7oa7wrhbnon8qbmw3karrgj&rid=giphy.gif&ct=g)
 
-## Show your 💓
-[Star our repo](https://github.com/ajorquera/ajorquera) and see your face ?v=4)![avatar ajorquera](https://avatars.githubusercontent.com/u/5083214?v=4)
+## Show your 💓 
+[Star our repo](https://github.com/ajorquera/ajorquera) and see your face here
