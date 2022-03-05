@@ -6,7 +6,7 @@
 <br/>
 
 ### [I'm feeling lucky](https://fct5mvs0s5.execute-api.us-east-2.amazonaws.com)
-![gyphy gif](https://media2.giphy.com/media/3og0IIF72FC7XmKv0Q/giphy.gif?cid=bfae7322wk4ypar2vwf75e3cemzphspq9d8yxfi1qrr7v24x&rid=giphy.gif&ct=g)
+![gyphy gif](https://media3.giphy.com/media/HCy8A6TuDM7P1Yc2nn/giphy.gif?cid=bfae7322kltme09ncj2qui7aq2ne4mazdgw70qzdr8q47mph&rid=giphy.gif&ct=g)
 
 ![in-progress-badge](https://img.shields.io/badge/IN-PROGRESS-brightgreen)
 
