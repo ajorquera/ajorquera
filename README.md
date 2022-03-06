@@ -6,7 +6,7 @@
 <br/>
 
 ### [I'm feeling lucky](https://fct5mvs0s5.execute-api.us-east-2.amazonaws.com)
-![gyphy gif](https://media3.giphy.com/media/FewZLMpfes1OcG7G3q/giphy.gif?cid=bfae73228iyvsy7azw5skpn62ctw2q96utpbr4q1on84b6v4&rid=giphy.gif&ct=g)
+![gyphy gif](https://media0.giphy.com/media/qrOPAbE9pnChFQSc7a/giphy.gif?cid=bfae7322la7ybv9e7l4l8b6f89bxi5hw95fhj9lv8swluhom&rid=giphy.gif&ct=g)
 
 ## Show your 💓 
 [Star our repo](https://github.com/ajorquera/ajorquera) and see your face here
