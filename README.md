@@ -1,6 +1,7 @@
 <img align="left" height="150" src="https://user-images.githubusercontent.com/5083214/156877684-70d66b18-8bc3-46c2-8979-c2725767fd69.gif">
 
-# Hi :Spain:#### Let's see if I can grab your attention...
+# Hi 🇷🇴
+#### Let's see if I can grab your attention...
 
 <br/>
 
