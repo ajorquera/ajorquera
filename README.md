@@ -1,9 +1,9 @@
-<h1 align="center">Hi 🇪🇸
+<h1 align="center">Hi 🇬🇧
 
 ![profile-views](https://komarev.com/ghpvc/?username=ajorquera&color=brightgreen)
 
 ### [I'm feeling lucky](https://fct5mvs0s5.execute-api.us-east-2.amazonaws.com).
-![gyphy gif](https://media0.giphy.com/media/10SqwtLq5ZFhMQ/giphy.gif?cid=bfae7322vkuciyyiseyxpptuq4bn00gw0rali7vce5qhnz8y&rid=giphy.gif&ct=g)
+![gyphy gif](https://media1.giphy.com/media/j3nfp7Yzq2HJg6hRaW/giphy.gif?cid=bfae73222h4ltu2ch68tw4tc20xd6mf3chmkvrh67b2w13d8&rid=giphy.gif&ct=g)
 
 ![PoweredBy_200_Horizontal_Light-Backgrounds_With_Logo](https://user-images.githubusercontent.com/5083214/161538646-c8e84d8f-df81-4722-a041-e091bc484cd6.gif)
 
