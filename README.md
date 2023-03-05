@@ -3,7 +3,7 @@
 ![profile-views](https://komarev.com/ghpvc/?username=ajorquera&color=brightgreen)
 
 ### [I'm feeling lucky](https://fct5mvs0s5.execute-api.us-east-2.amazonaws.com).
-![gyphy gif](https://media1.giphy.com/media/gKANjE7je4pXd1N0A7/giphy.gif?cid=bfae7322s3tim4ord488wv41hnyiliqyocnxhi1f5zn0vln4&rid=giphy.gif&ct=g)
+![gyphy gif](https://media0.giphy.com/media/gTnVdixTkV8HU6iSZN/giphy.gif?cid=bfae7322q067o9iuofxxqqddvqslqitknrgmy1h5293rg2cq&rid=giphy.gif&ct=g)
 
 ![PoweredBy_200_Horizontal_Light-Backgrounds_With_Logo](https://user-images.githubusercontent.com/5083214/161538646-c8e84d8f-df81-4722-a041-e091bc484cd6.gif)
 
